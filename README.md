@@ -1,4 +1,8 @@
-# my-project
+# VUE JS V.2
+
+## Pendahuluan
+
+Materi belajar paling simple tentang VUE JS yang mudah
 
 ## Project setup
 ```
